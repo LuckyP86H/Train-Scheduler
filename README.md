@@ -1,2 +1,0 @@
-# Train-Scheduler
-Firebase Assignment
